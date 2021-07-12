@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hrshuv0.hrshuv0)
+
+
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&theme=nightowl" alt="hrshuv0" />
