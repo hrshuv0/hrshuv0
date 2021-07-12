@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about any topics belong this profile...
 - 📫 How to reach me: ...
 - [Linkdin](https://www.linkedin.com/in/hrshuvo9/) [Kaggle](https://www.kaggle.com/hrshuvo)
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hrshuv0.hrshuv0)
