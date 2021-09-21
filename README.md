@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with community of Data Science enthusiast...
 - 💬 Ask me anything about any topics belong this profile...
 - 📫 How to reach me: ...
-- [Linkdin](https://www.linkedin.com/in/hrshuvo9/) [Kaggle](https://www.kaggle.com/hrshuvo)
+- 
+- [![Linkedin Badge](https://img.shields.io/badge/-hrshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrshuvo9//)](https://www.linkedin.com/in/hrshuvo9//)
 
 
 
