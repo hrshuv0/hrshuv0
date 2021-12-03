@@ -35,6 +35,4 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&theme=nightowl" alt="hrshuv0" />
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-  
-  
-  
+    
