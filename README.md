@@ -36,3 +36,5 @@ Here are some ideas to get you started:
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
     
+
+![snake gif](https://github.com/hrshuv0/hrshuv0/blob/output/github-contribution-grid-snake.gif)
