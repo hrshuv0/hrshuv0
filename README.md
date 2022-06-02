@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-CS graduate, programmer, and AI enthusiast. Trying to learn in-depth Machine Learning and Deep Learning. I'm also looking for an opportunity to share knowledge and implement in practical life with a team or relevant industry.
+CS graduate, sports programmer, and AI enthusiast. Trying to learn in-depth Software Engineering. I'm also looking for an opportunity to share knowledge and implement in practical life with a team or relevant industry.
 
 <!--
 **hrshuv0/hrshuv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
