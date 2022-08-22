@@ -64,9 +64,9 @@
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&locale=en" alt="hrshuv0" /></p>
 
 <b>&#128200; Competitive Programming</b>
-<p float="left" weidth="100%">
-<img height="273em" weidth="50%" src="https://leetcard.jacoblin.cool/hrshuvo?theme=light&font=Karma&ext=contest"  alt=""/>
-<img height="280em" weidth="50%" src="https://raw.githubusercontent.com/hrshuvo/cf-stats/main/output/light_card.svg"  alt=""/>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/hrshuvo?theme=light&font=Karma&ext=contest"  alt=""/>
+<img height="280em" src="https://raw.githubusercontent.com/hrshuvo/cf-stats/main/output/light_card.svg"  alt=""/>
 </p>
 
 
