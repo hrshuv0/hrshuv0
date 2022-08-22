@@ -1,40 +1,76 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm H R Shuvo</h1>
+<h3 align="center">A passionate Software Engineer working in Dhaka, Bangladesh</h3>
 
-CS graduate, sports programmer, and AI enthusiast. Trying to learn in-depth Software Engineering. I'm also looking for an opportunity to share knowledge and implement in practical life with a team or relevant industry.
+<p align="left">
+<a href="https://leetcode.com/hrshuvo/">
+    <img src="https://cp-logo.vercel.app/leetcode/hrshuvo" alt="Leet code rating" />
+  </a>
+<a href="https://codeforces.com/profile/hrshuvo">
+    <img src="https://cp-logo.vercel.app/codeforces/hrshuvo" alt="CodeForces rating" />
+  </a>
 
-<!--
-**hrshuv0/hrshuv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://atcoder.jp/users/shuv0">
+    <img src="https://cp-logo.vercel.app/atcoder/shuv0" alt="CodeChef rating" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/hrshuv0?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hrshuv0?color=green&logo=github">
+  </a>
+  <a href="https://github.com/hrshuv0/">
+    <img src="https://komarev.com/ghpvc/?username=hrshuv0" alt="visitors" />
+  </a>
 
-- 🔭 I’m currently looking for full-time intern or job opportunity as a Machine Learning/ Data Scientist role...
-- 🌱 I’m currently learning in depth of Machine Learning and Deep Learning and practicing programming...
-- 👯 I’m looking to collaborate on Software Industry...
-- 🤔 I’m looking for help with community of Data Science enthusiast...
-- 💬 Ask me anything about any topics belong this profile...
-- 📫 How to reach me: ...
-- 
-- [![Linkedin Badge](https://img.shields.io/badge/-hrshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrshuvo9//)](https://www.linkedin.com/in/hrshuvo9//)
+
+</p>
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hrshuv0.hrshuv0)
+- 🔭 I’m currently working at **OnnoRokom Software Ltd**
+
+- 🌱 I’m currently learning **DevOps, DSA**
+
+- 👨‍💻 All of my projects are available at [here](https://hrshuv0.github.io/)
+
+- 💬 Ask me about **.Net, C#, Docker, RestAPIs, DSA**
+
+- 📫 How to reach me **h.r.shuvo9@gmail.com**
 
 
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&theme=nightowl" alt="hrshuv0" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-    
 
-![snake gif](https://github.com/hrshuv0/hrshuv0/blob/output/github-contribution-grid-snake.gif)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
+
+<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshuv0&show_icons=true&locale=en&layout=compact" alt="hrshuv0" /></p>
+
+<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&locale=en" alt="hrshuv0" /></p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/hrshuvo?theme=light&font=Karma&ext=contest"  alt=""/>
+<img height="280em" src="https://raw.githubusercontent.com/hrshuvo/cf-stats/main/output/light_card.svg"  alt=""/>
+</p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshuv0&" alt="hrshuv0" /></p>
+
+
