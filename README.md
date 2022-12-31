@@ -57,11 +57,14 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshuv0&show_icons=true&locale=en&layout=compact" alt="hrshuv0" /></p>
 
-<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&locale=en" alt="hrshuv0" /></p>
 
-<b>&#128200; Competitive Programming</b>
+<div>
+    <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshuv0&show_icons=true&locale=en&layout=compact" alt="hrshuv0" /></p>
+    <p><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=hrshuv0&show_icons=true&locale=en" alt="hrshuv0" /></p>
+</div>
+
+
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/hrshuvo?theme=light&font=Karma&ext=contest"  alt=""/>
 <img height="280em" src="https://raw.githubusercontent.com/hrshuvo/cf-stats/main/output/light_card.svg"  alt=""/>
