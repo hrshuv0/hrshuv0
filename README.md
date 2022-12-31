@@ -20,10 +20,8 @@
   <a href="https://github.com/hrshuv0/">
     <img src="https://komarev.com/ghpvc/?username=hrshuv0" alt="visitors" />
   </a>
-
-
 </p>
-
+<img align="right" alt="GIF" src="https://github.com/hrshuv0/hrshuv0/blob/main/animated_coder.gif"  height="300" />
 
 
 - 🔭 I’m currently working at **OnnoRokom Software Ltd**
